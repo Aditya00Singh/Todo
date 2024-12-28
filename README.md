@@ -15,26 +15,6 @@ The To-Do List app is a simple and efficient task management tool that helps you
 - 📋 Fetch and display user profile data from the "data.txt" file.
 - 🔢 Sort tasks based on due dates in ascending order.
 
-## Screenshots 📸
-
-![Screenshot 1](screenshots/Screenshot_2.png)
-*Screenshot of the To-Do List app showing tasks for the "My Day" section.*
-
-![Screenshot 2](screenshots/Screenshot_1.png)
-*Screenshot of the To-Do List app showing tasks for the "Current Week" section.*
-
-![Screenshot 3](screenshots/Screenshot_3.png)
-*Screenshot of the To-Do List app showing tasks for the "Current Month" section.*
-
-![Screenshot 4](screenshots/Screenshot_4.png)
-*Screenshot of the To-Do List app showing a confirmation pop-up for deleting a task.*
-
-![Screenshot 5](screenshots/Screenshot_5.png)
-*Screenshot of the To-Do List app showing tasks that match the search results.*
-
-![Screenshot 6](screenshots/Screenshot_6.png)
-
-*Screenshot of the To-Do List app on Mobile device.*
 
 ## How to Use 📖
 
@@ -66,6 +46,6 @@ You can try the To Do List application online by following [this link](https://a
 
 ## Feedback and Support 💌
 
-Thank you for using my To-Do List app. I hope it helps you stay organized and productive. If you have any feedback, or suggestions, or encounter any issues, please feel free to contact the developer, Azim Baji Krishna, at azimbaji19@gmail.com
+Thank you for using my To-Do List app. I hope it helps you stay organized and productive. If you have any feedback, or suggestions, or encounter any issues, please feel free to contact the developer, Aditya Pratap Singh, at adityasuryavanshi7711@gmail.com
 
 Happy tasking! 😊
